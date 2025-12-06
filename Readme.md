@@ -5,4 +5,5 @@ Mục tiêu lập trình:<br>
 3.Thành thạo một ngôn ngữ lập trình<br>
 4.Học được thuật toán cơ bản<br>
 5.Tạo ra một sản phẩm nhỏ<br>
+Ngôn ngữ lập trình yêu thích: c++
 
